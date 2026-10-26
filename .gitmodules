@@ -1,0 +1,3 @@
+[submodule "Greeting-Server"]
+	path = Greeting-Server
+	url = https://github.com/Ahmad-abir/Greeting-Server.git
